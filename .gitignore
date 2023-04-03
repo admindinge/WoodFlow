@@ -1,0 +1,4 @@
+forestenv/
+__pycache__/
+**/*.pyc
+**/*.db
